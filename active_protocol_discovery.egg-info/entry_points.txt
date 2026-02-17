@@ -1,2 +1,0 @@
-[console_scripts]
-apd-demo = experiments.gaussian_demo:main
