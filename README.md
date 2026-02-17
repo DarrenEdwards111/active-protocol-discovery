@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="apd-logo.jpg" alt="Mikoshi Active Protocol Discovery" width="600">
+</p>
+
 # Active Protocol Discovery (APD)
 
 A lightweight framework for detecting hidden adaptive structure in noisy environments via sequential, KL-optimal probing.
