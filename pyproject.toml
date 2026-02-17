@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "active-protocol-discovery"
+version = "0.1.0"
+description = "Active Protocol Discovery — detect hidden adaptive structure via sequential KL-optimal probing"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Mikoshi Ltd", email = "darren@mikoshi.co.uk"}]
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.21",
+    "scipy>=1.7",
+]
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.5"]
+dev = ["pytest>=7.0", "matplotlib>=3.5"]
+
+[project.scripts]
+apd-demo = "experiments.gaussian_demo:main"
+
+[project.urls]
+Homepage = "https://github.com/DarrenEdwards111/active-protocol-discovery"
+Repository = "https://github.com/DarrenEdwards111/active-protocol-discovery"
+
+[tool.setuptools.packages.find]
+include = ["apd*", "experiments*"]
