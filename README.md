@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="apd-logo.jpg" alt="Mikoshi Active Protocol Discovery" width="600">
+  <img src="https://raw.githubusercontent.com/DarrenEdwards111/active-protocol-discovery/main/apd-logo.jpg" alt="Mikoshi Active Protocol Discovery" width="600">
 </p>
 
 # Active Protocol Discovery (APD)

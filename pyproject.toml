@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "active-protocol-discovery"
-version = "0.1.1"
+version = "0.1.2"
 description = "Active Protocol Discovery — detect hidden adaptive structure via sequential KL-optimal probing. 45x faster than passive monitoring, mathematically guaranteed error rates."
 readme = "README.md"
 license = {text = "Apache-2.0"}
