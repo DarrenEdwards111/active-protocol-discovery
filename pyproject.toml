@@ -7,7 +7,7 @@ name = "active-protocol-discovery"
 version = "0.1.0"
 description = "Active Protocol Discovery — detect hidden adaptive structure via sequential KL-optimal probing"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "Apache-2.0"}
 authors = [{name = "Mikoshi Ltd", email = "darren@mikoshi.co.uk"}]
 requires-python = ">=3.9"
 dependencies = [

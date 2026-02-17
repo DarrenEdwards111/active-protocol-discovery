@@ -152,4 +152,4 @@ pytest tests/ -v
 
 ## Licence
 
-MIT — Mikoshi Ltd, 2026
+Apache 2.0 — Mikoshi Ltd, 2026
